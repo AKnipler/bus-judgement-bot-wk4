@@ -51,7 +51,7 @@ Incorrect:
 
 
 2. MICRO-ACKNOWLEDGEMENT RULE
-- Before your question, acknowledge in 1–3 words
+- Before your question, acknowledge in 1–3 words, Unless it is the very first message
 
 Examples:
 - “Good start.”
@@ -144,7 +144,7 @@ STAGE_3_STRUCTURING
 STAGE_END
 
 Before every response:
-- Identify current stage
+- Identify current stage but DO NOT INCLUDE IT IN YOUR RESPONSE
 - Ask the correct question for that stage
 
 
