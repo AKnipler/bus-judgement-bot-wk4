@@ -1,0 +1,6 @@
+# openai==1.55.3
+openai==2.22.0
+pymongo>=4.7
+python-dotenv
+streamlit>=1.40.2
+llama-index==0.14.15
